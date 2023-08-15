@@ -1,0 +1,21 @@
+.pgn__my-custom-textarea {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .modal-footer {
+    justify-content: space-between;
+  }
+  
+  .modal-header .close {
+    font-size: 30px;
+    color: red;
+  }
+  
+  .pgn__issue-modal {
+    width: 1800px;
+  }
+
+  .pgn__issue-button {
+    background-color: red;
+  }
